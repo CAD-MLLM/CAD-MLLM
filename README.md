@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**CAD-MLLM/CAD-MLLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 align="center">CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM</h1>
+  <p align="center">
+    <a href="https://davidxu-jj.github.io/"><strong>Jingwei Xu<sup>1*</sup></strong></a>
+    ·
+    <a href="https://github.com/jeremiah-wang"><strong>Chenyu Wang<sup>2*</sup></strong></a>
+    ·
+    <a href="https://maikouuu.github.io/"><strong>Zibo Zhao<sup>1</sup></strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=A6K6bkoAAAAJ&hl=en"><strong>Wen Liu<sup>3</sup></strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=XqLiBQMAAAAJ&hl=en"><strong>Yi Ma<sup>4</sup></strong></a>
+    ·
+    <a href="https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en"><strong>Shenghua Gao<sup>4†</sup></strong></a>
+    <br>
+    <br>
+    <a href=""><img src='https://img.shields.io/badge/arXiv-CADMLLM-red' alt='Paper PDF'></a>
+    <a href="https://cad-mllm.github.io/"><img src='https://img.shields.io/badge/Project_Page-CADMLLM-green' alt='Project Page'></a>
+    <br>
+    <b>ShanghaiTech University |&nbsp;Transcengram |&nbsp;DeepSeek AI |&nbsp;University of Hong Kong</b>
+    <br>
+    (* denotes equal contribution, † denotes the corresponding author)
+    </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table align="center">
+    <tr>
+    <td>
+      <img src="assets/pipeline.png">
+    </td>
+    </tr>
+  </table>
+</p>
