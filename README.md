@@ -15,7 +15,7 @@
     <a href="https://scholar.google.com.sg/citations?user=fe-1v0MAAAAJ&hl=en"><strong>Shenghua Gao<sup>4†</sup></strong></a>
     <br>
     <br>
-    <a href=""><img src='https://img.shields.io/badge/arXiv-CADMLLM-red' alt='Paper PDF'></a>
+    <a href="https://arxiv.org/abs/2411.04954"><img src='https://img.shields.io/badge/arXiv-CADMLLM-red' alt='Paper PDF'></a>
     <a href="https://cad-mllm.github.io/"><img src='https://img.shields.io/badge/Project_Page-CADMLLM-green' alt='Project Page'></a>
     <br>
     <b>ShanghaiTech University |&nbsp;Transcengram |&nbsp;DeepSeek AI |&nbsp;University of Hong Kong</b>
@@ -31,3 +31,20 @@
     </tr>
   </table>
 </p>
+
+# Code
+
+Coming soon in the future.
+
+# Bibtex
+
+```bibtex
+@misc{xu2024CADMLLM,
+      title={CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM}, 
+      author={Jingwei Xu and Chenyu Wang and Zibo Zhao and Wen Liu and Yi Ma and Shenghua Gao},
+      year={2024},
+      eprint={2411.04954},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
