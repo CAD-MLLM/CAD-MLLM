@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM</h1>
+<h1 align="center">CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM</h1>
   <p align="center">
     <a href="https://davidxu-jj.github.io/"><strong>Jingwei Xu<sup>1*</sup></strong></a>
     ·
@@ -18,12 +18,12 @@
     <a href="https://arxiv.org/abs/2411.04954"><img src='https://img.shields.io/badge/arXiv-CADMLLM-red' alt='Paper PDF'></a>
     <a href="https://cad-mllm.github.io/"><img src='https://img.shields.io/badge/Project_Page-CADMLLM-green' alt='Project Page'></a>
     <br>
-    <b>ShanghaiTech University |&nbsp;Transcengram |&nbsp;DeepSeek AI |&nbsp;University of Hong Kong</b>
+    <b>ShanghaiTech University | Transcengram | DeepSeek AI | University of Hong Kong</b>
     <br>
     (* denotes equal contribution, † denotes the corresponding author)
     </p>
 
-  <table align="center">
+<table align="center">
     <tr>
     <td>
       <img src="assets/pipeline.png">
@@ -31,6 +31,10 @@
     </tr>
   </table>
 </p>
+
+# Example of Command Sequence Construction
+
+![](./assets/command_sequence.png)
 
 # Code
 
