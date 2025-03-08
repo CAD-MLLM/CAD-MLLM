@@ -42,12 +42,9 @@ Please view our [project page](https://cad-mllm.github.io/) for more information
 
 https://github.com/user-attachments/assets/c5cd9fe9-433e-4733-86ce-d0ebb62d695d
 
-# Data
-Coming soon in the future.
+# Data & Code
 
-# Code
-
-Coming soon in the future.
+We state our plan at https://github.com/CAD-MLLM/CAD-MLLM/issues/1.
 
 # Bibtex
 
