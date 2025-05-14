@@ -1,0 +1,4 @@
+[submodule "3rd_party/DeepCAD"]
+	path = 3rd_party/DeepCAD
+	url = https://github.com/DavidXu-JJ/DeepCAD.git
+	branch = tags/CAD-MLLM
