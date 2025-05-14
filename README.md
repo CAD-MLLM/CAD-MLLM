@@ -32,6 +32,19 @@
   </table>
 </p>
 
+# 🎉 News 
+- **[2025.05]** 🔥🔥🔥 Release the Evaluation Code on the proposed new metrics
+- **[2025.05]** 🔥🔥🔥 Release the Omni-CAD dataset
+- **[2024.11]** 📢📢📢 Release arXiv paper and init project
+
+
+# To Do List
+- [ ] Release the Inference Code
+- [ ] Release the Training Code
+- [x] Release the Evaluation Code on the proposed new metrics
+- [x] Release the Omni-CAD dataset
+- [x] Release Project Page & Technical Report
+
 # Example of Command Sequence Construction
 
 ![](./assets/command_sequence.png)
