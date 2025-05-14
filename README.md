@@ -39,6 +39,7 @@
 
 
 # To Do List
+- [ ] Release the Inference Code
 - [ ] Release the Training Code
 - [x] Release the Evaluation Code on the proposed new metrics
 - [x] Release the Omni-CAD dataset
