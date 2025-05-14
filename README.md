@@ -77,6 +77,7 @@ conda install -c conda-forge pythonocc-core=7.8.1
 mkdir data
 cd ./data
 wget https://huggingface.co/datasets/jingwei-xu-00/Omni-CAD/blob/main/Omni-CAD.zip
+unzip Omni-CAD.zip
 cd ..
 ```
 
