@@ -177,7 +177,7 @@ Finally, the directory structure should look like this:
 
 # Model code
 
-Coming soon in the future.
+We state our plan at https://github.com/CAD-MLLM/CAD-MLLM/issues/1.
 
 # Metrics computation code
 
