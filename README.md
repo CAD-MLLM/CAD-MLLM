@@ -4,9 +4,9 @@
   <p align="center">
     <a href="https://davidxu-jj.github.io/"><strong>Jingwei Xu<sup>1*</sup></strong></a>
     ·
-    <a href="https://github.com/jeremiah-wang"><strong>Chenyu Wang<sup>2*</sup></strong></a>
+    <a href="https://maikouuu.github.io/"><strong>Zibo Zhao<sup>1*</sup></strong></a>
     ·
-    <a href="https://maikouuu.github.io/"><strong>Zibo Zhao<sup>1</sup></strong></a>
+    <a href="https://github.com/jeremiah-wang"><strong>Chenyu Wang<sup>2*</sup></strong></a>
     ·
     <a href="https://scholar.google.com/citations?user=A6K6bkoAAAAJ&hl=en"><strong>Wen Liu<sup>3</sup></strong></a>
     ·
