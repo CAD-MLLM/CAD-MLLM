@@ -17,6 +17,7 @@
     <br>
     <a href="https://arxiv.org/abs/2411.04954"><img src='https://img.shields.io/badge/arXiv-CADMLLM-red' alt='Paper PDF'></a>
     <a href="https://cad-mllm.github.io/"><img src='https://img.shields.io/badge/Project_Page-CADMLLM-green' alt='Project Page'></a>
+    <a href="https://huggingface.co/datasets/jingwei-xu-00/Omni-CAD"><img src='https://img.shields.io/badge/Dataset-OmniCAD-yellow' alt='Data Set'></a>
     <br>
     <b>ShanghaiTech University | Transcengram | DeepSeek AI | University of Hong Kong</b>
     <br>
