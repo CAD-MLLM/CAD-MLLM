@@ -4,9 +4,9 @@
   <p align="center">
     <a href="https://davidxu-jj.github.io/"><strong>Jingwei Xu<sup>1*</sup></strong></a>
     ·
-    <a href="https://maikouuu.github.io/"><strong>Zibo Zhao<sup>1*</sup></strong></a>
-    ·
     <a href="https://github.com/jeremiah-wang"><strong>Chenyu Wang<sup>2*</sup></strong></a>
+    ·
+    <a href="https://maikouuu.github.io/"><strong>Zibo Zhao<sup>1</sup></strong></a>
     ·
     <a href="https://scholar.google.com/citations?user=A6K6bkoAAAAJ&hl=en"><strong>Wen Liu<sup>3</sup></strong></a>
     ·
@@ -209,7 +209,7 @@ We acknowledge the support of the following projects to our data preprocessing: 
 ```bibtex
 @misc{xu2024CADMLLM,
       title={CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM}, 
-      author={Jingwei Xu and Zibo Zhao and Chenyu Wang and Wen Liu and Yi Ma and Shenghua Gao},
+      author={Jingwei Xu and Chenyu Wang and Zibo Zhao and Wen Liu and Yi Ma and Shenghua Gao},
       year={2024},
       eprint={2411.04954},
       archivePrefix={arXiv},
