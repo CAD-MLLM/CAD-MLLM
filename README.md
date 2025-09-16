@@ -198,6 +198,12 @@ We state our plan at https://github.com/CAD-MLLM/CAD-MLLM/issues/1.
 
 In this paper, we proposed new metrics **Segment Error (SegE), Dangling Edge Length (DangEL), Self Intersection Ratio (SIR), and Flux Enclosure Error (FluxEE)**.
 
+<p align="center">
+  <img width="300" height="300" alt="deepcad_recon_mesh" src="https://github.com/user-attachments/assets/a5fff656-2b3c-4a00-a7c5-afa1e6f9923a" />
+  <br>
+  <em>Example: blue lines denote dangling edges that are only bounded by one face, DangEL counts the sum of their lengths.</em>
+</p>
+
 If you want to evaluate them in your own project, please visit [CAD-MLLM-metrics](https://github.com/DavidXu-JJ/CAD-MLLM-metrics) for the code and guidance.
 
 # Acknowledgements
